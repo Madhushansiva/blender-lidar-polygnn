@@ -133,7 +133,7 @@ Used for generating synthetic LiDAR data for training PolyGNN models.
 - Integration with ML pipeline
 
 ## Author
-Your Name
+Sivakumar Madhushan
 
 ## License
 For research and educational use
